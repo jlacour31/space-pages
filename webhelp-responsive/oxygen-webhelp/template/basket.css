@@ -3,7 +3,7 @@
 /*#
 @info@STYLES BASKET SELECTIONS METADATA@info@
 @name&styles_basket&name@
-@aspects&theme-fonts-monsterat-lato,toc-numbering-deep,page-size-a5,content-font-size-10,title-font-size-normal,table-style-box,unordered-list-bullet-colored-original-diamond,unordered-list-bullet-size-small,ordered-list-counter-lower-alpha&aspects@
+@aspects&theme-fonts-monsterat-lato,toc-numbering-deep,page-size-a5,content-font-size-10,title-font-size-normal,table-style-box,ordered-list-counter-lower-alpha&aspects@
 @info@WARNING: PLEASE DON'T MODIFY THIS FILE. MODIFICIATION CAN CAUSE UPLOADING ERRORS@info@
 #*/
 /*theme-fonts-monsterat-lato*/
@@ -80,21 +80,6 @@ th {
 .table th {
   border-top: none;
   border-bottom: none !important;
-}
-/*unordered-list-bullet-colored-original-diamond*/
-*[class~='topic/ul'] > *[class~='topic/li'],
-*[class~="topic/ul"] > *[class~="topic/li"] *[class~="topic/ul"] > *[class~="topic/li"] {
-  list-style-type: none;
-  margin-left: 1em;
-}
-*[class~='topic/ul'] > *[class~='topic/li']::before {
-  content: '\0025C6';
-  margin-right: 1em;
-  color: #000080;
-}
-/*unordered-list-bullet-size-small*/
-*[class~='topic/ul'] *[class~='topic/li']::before {
-  font-size: 0.7em;
 }
 /*ordered-list-counter-lower-alpha*/
 *[class~='topic/ol'] *[class~='topic/li'],
