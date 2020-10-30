@@ -3,7 +3,7 @@
 /*#
 @info@STYLES BASKET SELECTIONS METADATA@info@
 @name&styles_basket&name@
-@aspects&theme-fonts-monsterat-lato,toc-numbering-deep,page-size-a3,content-font-size-12,title-font-size-big,table-style-box&aspects@
+@aspects&theme-fonts-monsterat-lato,page-size-a3,content-font-size-12,title-font-size-big,table-style-box&aspects@
 @info@WARNING: PLEASE DON'T MODIFY THIS FILE. MODIFICIATION CAN CAUSE UPLOADING ERRORS@info@
 #*/
 /*theme-fonts-monsterat-lato*/
@@ -49,7 +49,6 @@ body {
 *[class~="topic/fig"] *[class~="topic/title"] {
   font-size: 1.1em;
 }
-/*toc-numbering-deep*/
 /*page-size-a3*/
 @media print {
   @page {
