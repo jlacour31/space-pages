@@ -1,3 +1,5 @@
+@import url('custom.css');
+
 @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 /*#
@@ -81,6 +83,3 @@ th {
   border-bottom: none !important;
 }
 
-*[class~="pr-d/codeblock"] {
-    background-color: aliceblue;
-}
