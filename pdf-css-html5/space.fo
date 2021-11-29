@@ -167,7 +167,7 @@
                                 <fo:block-container space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">Brief introduction
                                     to the concept of space exploration</fo:block></fo:block-container>
                                 <fo:block>
-                                    <fo:block-container space-after="1em" space-before="1em"><fo:block end-indent="0" start-indent="0" role="Note"><fo:inline background-image="url('file:/home/circleci/project/ope/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/img/note.svg')" background-position-horizontal="left" background-position-vertical="center" background-repeat="no-repeat" font-weight="bold" padding-bottom="4px" padding-left="23px" padding-right="4px" padding-top="4px">Note:</fo:inline>
+                                    <fo:block-container space-after="1em" space-before="1em"><fo:block end-indent="0" start-indent="0" role="Note"><fo:inline background-image="url('file:/var/jenkins_home/workspace/oxygen-pdf-css-github/ope/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/img/note.svg')" background-position-horizontal="left" background-position-vertical="center" background-repeat="no-repeat" font-weight="bold" padding-bottom="4px" padding-left="23px" padding-right="4px" padding-top="4px">Note:</fo:inline>
                                         <fo:inline font-style="italic">Any factual information in this
                                             project was taken from Wikipedia, the free
                                             encyclopedia.</fo:inline></fo:block></fo:block-container>
@@ -245,7 +245,7 @@
                                         <fo:block font-style="normal" page-break-after="avoid"><fo:inline>Figure<fo:inline> 1</fo:inline><fo:inline>. </fo:inline></fo:inline><fo:inline>The Solar
                                                 System</fo:inline></fo:block>
                                         <fo:block>
-                                            <fo:block><fo:inline chfox:inch="true" max-width="100%"><fo:inline><fo:external-graphic src="file:/home/circleci/project/sample/img/solar-system.jpg" max-width="100%" scaling="uniform" width="600in div 120" content-width="scale-to-fit" height="509in div 120" content-height="scale-to-fit"/></fo:inline></fo:inline><fo:list-block relative-align="baseline" provisional-label-separation="3pt" provisional-distance-between-starts="40px" space-after="1.33em" space-before="1.33em">
+                                            <fo:block><fo:inline chfox:inch="true" max-width="100%"><fo:inline><fo:external-graphic src="file:/var/jenkins_home/workspace/oxygen-pdf-css-github/sample/img/solar-system.jpg" max-width="100%" scaling="uniform" width="600in div 120" content-width="scale-to-fit" height="509in div 120" content-height="scale-to-fit"/></fo:inline></fo:inline><fo:list-block relative-align="baseline" provisional-label-separation="3pt" provisional-distance-between-starts="40px" space-after="1.33em" space-before="1.33em">
                                                   <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">1.
             </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>
                                                   <fo:inline color="blue" text-decoration="underline"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_4_Connect_42_mercury">Mercury</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_4_Connect_42_mercury"><fo:inline font-style="italic" text-decoration="underline"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_4_Connect_42_mercury"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_4_Connect_42_mercury"><fo:page-number-citation ref-id="unique_4_Connect_42_mercury"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_4_Connect_42_mercury">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline>
@@ -311,7 +311,7 @@
                                             the gods.</fo:block></fo:block-container>
                                         <fo:block>
                                             <fo:block-container space-after="1em" margin-left="40px" margin-right="40px" space-before="1em" id="unique_4_Connect_42_fig2" chfox:nd-id="fig2"><fo:block end-indent="0" start-indent="0"><fo:block font-style="normal" page-break-after="avoid"><fo:inline>Figure<fo:inline> 2</fo:inline><fo:inline>. </fo:inline></fo:inline><fo:inline>Planet
-                                                  Mercury</fo:inline></fo:block><fo:inline chfox:inch="true" max-width="100%"><fo:inline><fo:external-graphic src="file:/home/circleci/project/sample/img/Mercury.jpg" max-width="100%" scaling="uniform" width="225in div 120" content-width="scale-to-fit" height="225in div 120" content-height="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
+                                                  Mercury</fo:inline></fo:block><fo:inline chfox:inch="true" max-width="100%"><fo:inline><fo:external-graphic src="file:/var/jenkins_home/workspace/oxygen-pdf-css-github/sample/img/Mercury.jpg" max-width="100%" scaling="uniform" width="225in div 120" content-width="scale-to-fit" height="225in div 120" content-height="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
                                         </fo:block>
                                     </fo:block></fo:block-container>
                                     <fo:block-container space-after="1em" space-before="1em" id="unique_4_Connect_42_venus" chfox:nd-id="venus"><fo:block end-indent="0" start-indent="0" role="Sect">
@@ -326,7 +326,7 @@
                                             goddess of love and beauty.</fo:block></fo:block-container>
                                         <fo:block>
                                             <fo:block-container space-after="1em" margin-left="40px" margin-right="40px" space-before="1em" id="d32e519"><fo:block end-indent="0" start-indent="0"><fo:block font-style="normal" page-break-after="avoid"><fo:inline>Figure<fo:inline> 3</fo:inline><fo:inline>. </fo:inline></fo:inline><fo:inline id="unique_4_Connect_42_fig3" chfox:nd-id="fig3">Planet
-                                                  Venus</fo:inline></fo:block><fo:inline chfox:inch="true" max-width="100%"><fo:inline><fo:external-graphic src="file:/home/circleci/project/sample/img/Venus.jpg" max-width="100%" scaling="uniform" width="260in div 120" content-width="scale-to-fit" height="260in div 120" content-height="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
+                                                  Venus</fo:inline></fo:block><fo:inline chfox:inch="true" max-width="100%"><fo:inline><fo:external-graphic src="file:/var/jenkins_home/workspace/oxygen-pdf-css-github/sample/img/Venus.jpg" max-width="100%" scaling="uniform" width="260in div 120" content-width="scale-to-fit" height="260in div 120" content-height="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
                                         </fo:block>
                                     </fo:block></fo:block-container>
                                     <fo:block-container space-after="1em" space-before="1em" id="unique_4_Connect_42_earth" chfox:nd-id="earth"><fo:block end-indent="0" start-indent="0" role="Sect">
@@ -343,7 +343,7 @@
                                             366.26 times.</fo:block></fo:block-container>
                                         <fo:block>
                                             <fo:block-container space-after="1em" margin-left="40px" margin-right="40px" space-before="1em" id="unique_4_Connect_42_fig4" chfox:nd-id="fig4"><fo:block end-indent="0" start-indent="0"><fo:block font-style="normal" page-break-after="avoid"><fo:inline>Figure<fo:inline> 4</fo:inline><fo:inline>. </fo:inline></fo:inline><fo:inline>Planet
-                                                  Earth</fo:inline></fo:block><fo:inline chfox:inch="true" max-width="100%"><fo:inline><fo:external-graphic src="file:/home/circleci/project/sample/img/Earth.jpg" max-width="100%" scaling="uniform" width="224in div 120" content-width="scale-to-fit" height="225in div 120" content-height="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
+                                                  Earth</fo:inline></fo:block><fo:inline chfox:inch="true" max-width="100%"><fo:inline><fo:external-graphic src="file:/var/jenkins_home/workspace/oxygen-pdf-css-github/sample/img/Earth.jpg" max-width="100%" scaling="uniform" width="224in div 120" content-width="scale-to-fit" height="225in div 120" content-height="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
                                         </fo:block>
                                     </fo:block></fo:block-container>
                                     <fo:block-container space-after="1em" space-before="1em" id="unique_4_Connect_42_mars" chfox:nd-id="mars"><fo:block end-indent="0" start-indent="0" role="Sect">
@@ -362,7 +362,7 @@
                                             the valleys, deserts, and polar ice caps of Earth.</fo:block></fo:block-container>
                                         <fo:block>
                                             <fo:block-container space-after="1em" margin-left="40px" margin-right="40px" space-before="1em" id="unique_4_Connect_42_fig5" chfox:nd-id="fig5"><fo:block end-indent="0" start-indent="0"><fo:block font-style="normal" page-break-after="avoid"><fo:inline>Figure<fo:inline> 5</fo:inline><fo:inline>. </fo:inline></fo:inline><fo:inline>Planet
-                                                  Mars</fo:inline></fo:block><fo:inline chfox:inch="true" max-width="100%"><fo:inline><fo:external-graphic src="file:/home/circleci/project/sample/img/Mars.jpg" max-width="100%" scaling="uniform" width="275in div 120" content-width="scale-to-fit" height="275in div 120" content-height="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
+                                                  Mars</fo:inline></fo:block><fo:inline chfox:inch="true" max-width="100%"><fo:inline><fo:external-graphic src="file:/var/jenkins_home/workspace/oxygen-pdf-css-github/sample/img/Mars.jpg" max-width="100%" scaling="uniform" width="275in div 120" content-width="scale-to-fit" height="275in div 120" content-height="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
                                         </fo:block>
                                     </fo:block></fo:block-container>
                                 </fo:block></fo:block-container>
@@ -399,7 +399,7 @@
                                             their god Jupiter.</fo:block></fo:block-container>
                                         <fo:block>
                                             <fo:block-container space-after="1em" margin-left="40px" margin-right="40px" space-before="1em" id="unique_5_Connect_42_fig6" chfox:nd-id="fig6"><fo:block end-indent="0" start-indent="0"><fo:block font-style="normal" page-break-after="avoid"><fo:inline>Figure<fo:inline> 6</fo:inline><fo:inline>. </fo:inline></fo:inline><fo:inline>Planet
-                                                  Jupiter</fo:inline></fo:block><fo:inline chfox:inch="true" max-width="100%"><fo:inline><fo:external-graphic src="file:/home/circleci/project/sample/img/Jupiter.jpg" max-width="100%" scaling="uniform" width="330in div 120" content-width="scale-to-fit" height="330in div 120" content-height="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
+                                                  Jupiter</fo:inline></fo:block><fo:inline chfox:inch="true" max-width="100%"><fo:inline><fo:external-graphic src="file:/var/jenkins_home/workspace/oxygen-pdf-css-github/sample/img/Jupiter.jpg" max-width="100%" scaling="uniform" width="330in div 120" content-width="scale-to-fit" height="330in div 120" content-height="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
                                         </fo:block>
                                     </fo:block></fo:block-container>
                                     <fo:block-container space-after="1em" space-before="1em" id="unique_5_Connect_42_saturn" chfox:nd-id="saturn"><fo:block end-indent="0" start-indent="0" role="Sect">
@@ -414,7 +414,7 @@
                                             astronomical symbol (♄) represents the god's sickle.</fo:block></fo:block-container>
                                         <fo:block>
                                             <fo:block-container space-after="1em" margin-left="40px" margin-right="40px" space-before="1em" id="unique_5_Connect_42_fig7" chfox:nd-id="fig7"><fo:block end-indent="0" start-indent="0"><fo:block font-style="normal" page-break-after="avoid"><fo:inline>Figure<fo:inline> 7</fo:inline><fo:inline>. </fo:inline></fo:inline><fo:inline>Planet
-                                                  Saturn</fo:inline></fo:block><fo:inline chfox:inch="true" max-width="100%"><fo:inline><fo:external-graphic src="file:/home/circleci/project/sample/img/Saturn.jpg" max-width="100%" scaling="uniform" width="330in div 120" content-width="scale-to-fit" height="160in div 120" content-height="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
+                                                  Saturn</fo:inline></fo:block><fo:inline chfox:inch="true" max-width="100%"><fo:inline><fo:external-graphic src="file:/var/jenkins_home/workspace/oxygen-pdf-css-github/sample/img/Saturn.jpg" max-width="100%" scaling="uniform" width="330in div 120" content-width="scale-to-fit" height="160in div 120" content-height="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
                                         </fo:block>
                                     </fo:block></fo:block-container>
                                     <fo:block-container space-after="1em" space-before="1em" id="unique_5_Connect_42_uranus" chfox:nd-id="uranus"><fo:block end-indent="0" start-indent="0" role="Sect">
@@ -434,7 +434,7 @@
                                             hydrocarbons.</fo:block></fo:block-container>
                                         <fo:block>
                                             <fo:block-container space-after="1em" margin-left="40px" margin-right="40px" space-before="1em" id="unique_5_Connect_42_fig8" chfox:nd-id="fig8"><fo:block end-indent="0" start-indent="0"><fo:block font-style="normal" page-break-after="avoid"><fo:inline>Figure<fo:inline> 8</fo:inline><fo:inline>. </fo:inline></fo:inline><fo:inline>Planet
-                                                  Uranus</fo:inline></fo:block><fo:inline chfox:inch="true" max-width="100%"><fo:inline><fo:external-graphic src="file:/home/circleci/project/sample/img/Uranus.jpg" max-width="100%" scaling="uniform" width="260in div 120" content-width="scale-to-fit" height="260in div 120" content-height="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
+                                                  Uranus</fo:inline></fo:block><fo:inline chfox:inch="true" max-width="100%"><fo:inline><fo:external-graphic src="file:/var/jenkins_home/workspace/oxygen-pdf-css-github/sample/img/Uranus.jpg" max-width="100%" scaling="uniform" width="260in div 120" content-width="scale-to-fit" height="260in div 120" content-height="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
                                         </fo:block>
                                     </fo:block></fo:block-container>
                                     <fo:block-container space-after="1em" space-before="1em" id="unique_5_Connect_42_neptune" chfox:nd-id="neptune"><fo:block end-indent="0" start-indent="0" role="Sect">
@@ -454,7 +454,7 @@
                                             Neptune's trident.</fo:block></fo:block-container>
                                         <fo:block>
                                             <fo:block-container space-after="1em" margin-left="40px" margin-right="40px" space-before="1em" id="unique_5_Connect_42_fig9" chfox:nd-id="fig9"><fo:block end-indent="0" start-indent="0"><fo:block font-style="normal" page-break-after="avoid"><fo:inline>Figure<fo:inline> 9</fo:inline><fo:inline>. </fo:inline></fo:inline><fo:inline>Planet
-                                                  Neptune</fo:inline></fo:block><fo:inline chfox:inch="true" max-width="100%"><fo:inline><fo:external-graphic src="file:/home/circleci/project/sample/img/Neptune.jpg" max-width="100%" scaling="uniform" width="275in div 120" content-width="scale-to-fit" height="275in div 120" content-height="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
+                                                  Neptune</fo:inline></fo:block><fo:inline chfox:inch="true" max-width="100%"><fo:inline><fo:external-graphic src="file:/var/jenkins_home/workspace/oxygen-pdf-css-github/sample/img/Neptune.jpg" max-width="100%" scaling="uniform" width="275in div 120" content-width="scale-to-fit" height="275in div 120" content-height="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
                                         </fo:block>
                                     </fo:block></fo:block-container>
                                 </fo:block></fo:block-container>
@@ -713,7 +713,7 @@
                                                   </mrow></math></fo:instream-foreign-object>
                                             </fo:inline>
                                             <fo:block-container space-after="1em" margin-left="40px" margin-right="40px" space-before="1em" id="unique_8_Connect_42_fig_bpv_m14_b4b" chfox:nd-id="fig_bpv_m14_b4b"><fo:block end-indent="0" start-indent="0"><fo:block font-style="normal" page-break-after="avoid"><fo:inline>Figure<fo:inline> 10</fo:inline><fo:inline>. </fo:inline></fo:inline><fo:inline>Illustration of Kepler's three laws with two
-                                                  planetary orbits</fo:inline></fo:block><fo:inline chfox:inch="true" max-width="100%" id="unique_8_Connect_42_image_cpv_m14_b4b" chfox:nd-id="image_cpv_m14_b4b"><fo:inline><fo:external-graphic src="file:/home/circleci/project/sample/img/Kepler.svg" max-width="100%" content-width="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container></fo:block>
+                                                  planetary orbits</fo:inline></fo:block><fo:inline chfox:inch="true" max-width="100%" id="unique_8_Connect_42_image_cpv_m14_b4b" chfox:nd-id="image_cpv_m14_b4b"><fo:inline><fo:external-graphic src="file:/var/jenkins_home/workspace/oxygen-pdf-css-github/sample/img/Kepler.svg" max-width="100%" content-width="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container></fo:block>
                                     </fo:block></fo:block-container>
                                 </fo:block></fo:block-container>
                             </fo:block>
